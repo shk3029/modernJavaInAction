@@ -1,11 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2afc719-ef3f-4b4c-b043-47787d5a4987" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/.cache-main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap10/Iterate$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap10/Iterate$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap10/Iterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$BinOp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$BinOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$Expr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$Number$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching$Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PatternMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PrimeNumbers$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap19/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Beer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Beer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Closure$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Closure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Currying$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Currying.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Hello$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Insurance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/OptionTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/OptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Sized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/SizedRunner$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/SizedRunner$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/SizedRunner$Box$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/SizedRunner$Empty$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/SizedRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Student$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Tuples$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Tuples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Tweets$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/bin/modernjavainaction/chap20/Tweets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap10/Iterate.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap19/PatternMatching.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap19/PrimeNumbers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Beer.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Closure.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Currying.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Hello.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/OptionTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Student.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Trait.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Tuples.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModernJavaInAction-scala/src/modernjavainaction/chap20/Tweets.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/mvn/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6e6AdWousIqoT1LnbWe1SGgnv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FilteringApples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modernjavainaction.chap01.FilteringApples" />
+      <module name="modernJavaInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modernjavainaction.chap01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FilteringApples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2afc719-ef3f-4b4c-b043-47787d5a4987" name="Default Changelist" comment="" />
+      <created>1606921790841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606921790841</updated>
+      <workItem from="1606921791918" duration="94000" />
+      <workItem from="1606921889293" duration="167000" />
+      <workItem from="1606922084294" duration="102000" />
+      <workItem from="1606922242356" duration="317000" />
+      <workItem from="1606922574794" duration="284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="114" key="#Project_Structure" timestamp="1606922391802">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="114" key="#Project_Structure/1920.0.1920.1040/0.0.1920.1040/3840.-541.960.1707@1920.0.1920.1040" timestamp="1606922391802" />
+    <state x="2548" y="255" key="FileChooserDialogImpl" timestamp="1606922855887">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2548" y="255" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040/3840.-541.960.1707@1920.0.1920.1040" timestamp="1606922855887" />
+    <state x="2503" y="189" key="SettingsEditor" timestamp="1606922859538">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2503" y="189" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040/3840.-541.960.1707@1920.0.1920.1040" timestamp="1606922859538" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ModernJavaInAction-master/src/main/java/modernjavainaction/chap01/FilteringApples.java</url>
+          <line>9</line>
+          <properties class="modernjavainaction.chap01.FilteringApples" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
